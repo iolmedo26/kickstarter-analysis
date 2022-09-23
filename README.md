@@ -1,1 +1,2 @@
 # kickstarter-analysis
+Issa Olmedo
